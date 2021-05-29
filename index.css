@@ -37,7 +37,8 @@ body {
         height:150px;
         background: linear-gradient(rgba(170, 92, 219,0.5),rgba(170, 92, 219,0.5)),url('images/image-header-mobile.jpg');
         background-size: cover;
-        border-radius: 5px;
+        border-top-right-radius:5px ;
+        border-top-left-radius: 5px;
     }
 
     .heading{
